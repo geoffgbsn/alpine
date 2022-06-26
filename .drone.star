@@ -1,4 +1,4 @@
-repo = "geoffgbsn/alpine"
+repo = "spritsail/alpine"
 archs = ["amd64", "arm64"]
 branches = ["master"]
 versions = {
